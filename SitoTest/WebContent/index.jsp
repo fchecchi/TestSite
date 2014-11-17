@@ -3,5 +3,5 @@
 <title>
 </title>
 </head>
-<body>Ciao io sono Fabrizio Checchi</body>
+<body>Ciao io sono Fabrizio Checchi<br/>E questa è una stringa di test</body>
 </html>
